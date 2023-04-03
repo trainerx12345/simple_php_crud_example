@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.reg-div,
+.wrapper,
+#reg-form {
+    margin: auto;
+}
